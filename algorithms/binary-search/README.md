@@ -2,4 +2,4 @@
 
 ## Time Complexity
 
-`O(log N)`, log time
+$O(log N)$, log time

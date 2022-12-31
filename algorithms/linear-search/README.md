@@ -2,4 +2,4 @@
 
 ## Time Complexity
 
-`O(N)`, linear time
+$O(N)$, linear time

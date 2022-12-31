@@ -15,6 +15,6 @@ These are the common ways we might interact with the data structure:
 
 ## Time Complexity
 
-| Read | Search (Linear Search) | Insert | Delete |
-| :--: | :--------------------: | :----: | :----: |
-| O(1) |          O(N)          |  O(N)  |  O(N)  |
+|  Read  | Search (Linear Search) | Insert | Delete |
+| :----: | :--------------------: | :----: | :----: |
+| $O(1)$ |         $O(N)$         | $O(N)$ | $O(N)$ |

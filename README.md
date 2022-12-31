@@ -43,9 +43,9 @@ Big O Notation is a notation that tells how the number of steps changes as the d
 
 Following are several time complexities:
 
-- O(1), constant time
-- O(N), linear time
-- O(log N), log time
+- $O(1)$, constant time
+- $O(log N)$, log time
+- $O(N)$, linear time
 
 ![Big O Graphs](./img/big-o-graph.jpg)
 Source: [Big O Cheat Sheet](https://www.bigocheatsheet.com)
