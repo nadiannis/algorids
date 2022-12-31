@@ -7,6 +7,9 @@
 
 Data Structure is about how data is organized. The organization of data can impact the efficiency of a program.
 
+- [Array](https://github.com/nadiannis/algorids/tree/main/data-structures/array)
+- [Set](https://github.com/nadiannis/algorids/tree/main/data-structures/set)
+
 ## Algorithms
 
 Algorithm is a set of instructions for completing a specific task. Even if we've decided on a particular data structure, proper selection of which algorithm to use is another factor that can affect the efficiency of a program.
