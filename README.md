@@ -29,9 +29,9 @@ Data Structure is about how data is organized. The organization of data can impa
 
 Algorithm is a set of instructions for completing a specific task. Even if we've decided on a particular data structure, proper selection of which algorithm to use is another factor that can affect the efficiency of a program.
 
-- [Linear Search on Regular Array](https://github.com/nadiannis/algorids/tree/main/algorithms/linear-search) ([py](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search.py) | [js](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search.js))
-- [Linear Search on Ordered Array](https://github.com/nadiannis/algorids/tree/main/algorithms/linear-search) ([py](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.py) | [js](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.js))
-- [Binary Search](https://github.com/nadiannis/algorids/tree/main/algorithms/binary-search) ([py](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.py) | [js](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.js))
+- [Linear Search on Regular Array](https://github.com/nadiannis/algorids/tree/main/algorithms/linear-search) | code: [py](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search.py), [js](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search.js)
+- [Linear Search on Ordered Array](https://github.com/nadiannis/algorids/tree/main/algorithms/linear-search) | code: [py](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.py), [js](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.js)
+- [Binary Search](https://github.com/nadiannis/algorids/tree/main/algorithms/binary-search) | code: [py](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.py), [js](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.js)
 
 ## Time Complexity
 
