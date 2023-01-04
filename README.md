@@ -33,6 +33,7 @@ Algorithm is a set of instructions for completing a specific task. Even if we've
 - [Linear Search on Ordered Array](https://github.com/nadiannis/algorids/tree/main/algorithms/linear-search) | code: [py](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.py), [js](https://github.com/nadiannis/algorids/blob/main/algorithms/linear-search/linear_search_ordered.js)
 - [Binary Search](https://github.com/nadiannis/algorids/tree/main/algorithms/binary-search) | code: [py](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.py), [js](https://github.com/nadiannis/algorids/blob/main/algorithms/binary-search/binary_search.js)
 - [Bubble Sort](https://github.com/nadiannis/algorids/tree/main/algorithms/bubble-sort) | code: [py](https://github.com/nadiannis/algorids/tree/main/algorithms/bubble-sort/bubble_sort.py), [js](https://github.com/nadiannis/algorids/tree/main/algorithms/bubble-sort/bubble_sort.js)
+- [Selection Sort](https://github.com/nadiannis/algorids/tree/main/algorithms/selection-sort) | code: [py](https://github.com/nadiannis/algorids/tree/main/algorithms/selection-sort/selection_sort.py), [js](https://github.com/nadiannis/algorids/tree/main/algorithms/selection-sort/selection_sort.js)
 
 ## Time Complexity
 
